@@ -28,6 +28,8 @@ public class Student {
         s3.rno = 3;
         s3.name = "Sidhant";
 
+        Student.college = "Pune College";
+
         s1.display();
         s2.display();
         s3.display();
